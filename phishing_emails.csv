@@ -1,0 +1,50 @@
+From,To,Reply-To,email_text,label
+info@inbox.org,charlie@example.com,service@inbox.org,Your account has been suspended due to suspicious activity. Click here to verify.,phishing
+support@securemail.com,frank@example.com,admin@office365-secure.com,Win a brand new iPhone! Click the link to claim your prize.,phishing
+support@office365-secure.com,dave@example.com,support@office365-secure.com,Security Alert: Your password has expired. Reset it immediately.,phishing
+info@company.com,frank@example.com,security@email.net,Urgent: Your PayPal account is on hold. Log in to resolve.,phishing
+info@inbox.org,alice@example.com,info@inbox.org,Update your billing information to avoid service interruption.,phishing
+alerts@office365-secure.com,emma@example.com,support@company.com,You’ve been selected for a $1000 gift card. Act fast!,phishing
+hr@office365-secure.com,bob@example.com,hr@office365-secure.com,Unusual login detected. Click here to verify your identity.,phishing
+admin@securemail.com,dave@example.com,security@phishingsite.ru,Confirm your email to avoid deactivation of your account.,phishing
+hr@inbox.org,alice@example.com,hr@inbox.org,Important: Final notice about your pending tax refund.,phishing
+hr@email.net,frank@example.com,hr@email.net,Click this link to schedule your delivery.,phishing
+service@office365-secure.com,dave@example.com,admin@inbox.org,Verify your Apple ID information now to avoid lockout.,phishing
+admin@office365-secure.com,bob@example.com,admin@office365-secure.com,Your parcel couldn’t be delivered. Click to reschedule.,phishing
+hr@office365-secure.com,emma@example.com,hr@office365-secure.com,We noticed an issue with your payment. Please log in.,phishing
+updates@company.com,bob@example.com,hr@inbox.org,You have won a free vacation. Claim now!,phishing
+support@email.net,bob@example.com,security@company.com,Free trial about to expire. Add billing info to continue.,phishing
+service@inbox.org,emma@example.com,hr@email.net,Fake login detected from unknown location. Act now!,phishing
+security@email.net,bob@example.com,updates@phishingsite.ru,Receive your gift card before it's too late!,phishing
+updates@inbox.org,charlie@example.com,updates@inbox.org,Complete survey to unlock your prize.,phishing
+support@office365-secure.com,alice@example.com,support@office365-secure.com,Confirm your bank credentials to avoid suspension.,phishing
+updates@office365-secure.com,dave@example.com,security@inbox.org,Official warning: Failure to act will result in penalty.,phishing
+hr@inbox.org,alice@example.com,updates@securemail.com,"Team, the project deadline is extended to Friday.",not_phishing
+admin@inbox.org,alice@example.com,admin@inbox.org,Here is the updated client report for review.,not_phishing
+admin@inbox.org,bob@example.com,service@inbox.org,Don't forget our meeting tomorrow at 9 AM.,not_phishing
+support@inbox.org,frank@example.com,support@inbox.org,Happy Birthday! Wishing you a great year ahead.,not_phishing
+alerts@company.com,charlie@example.com,alerts@company.com,The invoice has been paid successfully. Thank you!,not_phishing
+alerts@securemail.com,alice@example.com,alerts@securemail.com,Let’s catch up over coffee next week.,not_phishing
+updates@office365-secure.com,frank@example.com,security@securemail.com,Attached is the updated presentation deck.,not_phishing
+hr@office365-secure.com,bob@example.com,hr@office365-secure.com,I've shared the Google Doc for the draft version.,not_phishing
+alerts@office365-secure.com,emma@example.com,alerts@office365-secure.com,Please submit the expense report by Friday.,not_phishing
+updates@securemail.com,charlie@example.com,support@company.com,The server maintenance is scheduled for midnight.,not_phishing
+alerts@inbox.org,emma@example.com,service@office365-secure.com,Reminder: Performance reviews start next Monday.,not_phishing
+security@inbox.org,alice@example.com,security@inbox.org,Please go through this report before the meeting.,not_phishing
+alerts@securemail.com,dave@example.com,updates@securemail.com,The client call is rescheduled to 4 PM.,not_phishing
+security@email.net,frank@example.com,updates@company.com,I will be on leave next Tuesday. Please inform the team.,not_phishing
+alerts@securemail.com,emma@example.com,alerts@securemail.com,Let's finalize the agenda before sending invites.,not_phishing
+hr@securemail.com,alice@example.com,service@email.net,Join the product demo tomorrow via Zoom link.,not_phishing
+admin@company.com,alice@example.com,admin@company.com,Please check the email thread and revert.,not_phishing
+service@company.com,dave@example.com,support@company.com,Updated proposal is attached for review.,not_phishing
+service@office365-secure.com,alice@example.com,service@office365-secure.com,The HR session starts at 3 PM sharp.,not_phishing
+updates@inbox.org,charlie@example.com,updates@inbox.org,The marketing plan draft looks great. Well done!,not_phishing
+service@inbox.org,dave@example.com,service@inbox.org,Expense policy was updated. Check the internal portal.,not_phishing
+updates@securemail.com,alice@example.com,security@inbox.org,Internal system upgrade is scheduled this weekend.,not_phishing
+alerts@company.com,dave@example.com,alerts@company.com,Thanks for sharing the feedback. Will revise accordingly.,not_phishing
+hr@securemail.com,bob@example.com,service@email.net,Leave request approved. Inform your reporting manager.,not_phishing
+service@phishingsite.ru,frank@example.com,service@securemail.com,Here's the travel itinerary you requested.,not_phishing
+alerts@phishingsite.ru,alice@example.com,security@phishingsite.ru,Can you confirm the delivery by Friday?,not_phishing
+alerts@inbox.org,frank@example.com,alerts@inbox.org,Kindly update the CRM with new client details.,not_phishing
+info@inbox.org,charlie@example.com,hr@office365-secure.com,The interview is scheduled for 2 PM Thursday.,not_phishing
+service@company.com,alice@example.com,updates@phishingsite.ru,Congrats on the new project! Let’s discuss next steps.,not_phishing
