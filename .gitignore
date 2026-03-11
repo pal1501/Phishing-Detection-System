@@ -6,6 +6,9 @@ __pycache__/
 *.env
 .env
 
+# Ignore text requirements file
+requirements.txt
+
 # Ignore Jupyter Notebook checkpoints (if any)
 .ipynb_checkpoints/
 
